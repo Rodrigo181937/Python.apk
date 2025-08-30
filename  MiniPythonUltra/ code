@@ -1,1 +1,7 @@
+git init
+git add .
+git commit -m "Initial commit of Mini Python Ultra"
+git branch -M main
+git remote add origin https://github.com/Rodrigo181937/MiniPythonUltra.git
+git push -u origin main
 
