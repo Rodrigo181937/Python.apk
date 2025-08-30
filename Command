@@ -1,0 +1,15 @@
+# Mini Python Ultra
+
+Mini Python Ultra is an interactive Python interpreter written in Python. It supports:
+
+- Multi-line code blocks
+- Persistent environment (variables and functions remain)
+- Autocomplete (Tab key)
+- Command history (Up/Down arrows)
+- Run external Python scripts: `runfile <file.py>`
+- Graphics mode using Turtle: `graphics_mode`
+
+## How to Run
+
+```bash
+python mini_python.py
